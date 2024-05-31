@@ -1,8 +1,8 @@
+import org.example.Car;
 import org.example.arge.CarSkeleton;
 import org.example.arge.ElectricCar;
 import org.example.arge.GasPoweredCar;
 import org.example.arge.HybridCar;
-import org.example.company.Car;
 import org.example.company.Ford;
 import org.example.company.Holden;
 import org.example.company.Mitsubishi;
